@@ -1,16 +1,21 @@
-## Hi there 👋
+# Evgeny Marchenko
 
-<!--
-**netianite/netianite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web development · Software · IT infrastructure · Cybersecurity
 
-Here are some ideas to get you started:
+I design, develop and maintain web projects, business systems and IT infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current projects
+
+- **Doka CMS** — lightweight CMS for websites and content projects
+- **DLP AI NEXUS** — experimental AI workspace and virtual expert environment
+- **VAILYA** — virtual assistant for information, documents, ideas and tasks
+- **NITI.BY** — web projects and experimental services
+
+### Areas of work
+
+`PHP` `PostgreSQL` `MySQL` `Linux` `Nginx` `Windows Server` `Hyper-V`  
+`Web Development` `IT Infrastructure` `Cybersecurity` `Personal Data Protection`
+
+### Web
+
+**dlp.by** · **niti.by**
